@@ -1,0 +1,2 @@
+# JavaScript_Min_Project_1
+JavaScript_Project
